@@ -42,3 +42,11 @@ There are 20 Cars with displacement greater than or equal to 150 cu.in.
 Masking allows the creator to reference data directly in their document. 
 
 
+## Task 4
+
+```{r}
+iris$Sepal.Length[1]
+  iris
+```
+
+This function gives us the sepal length of the first flower in the "iris" dataset

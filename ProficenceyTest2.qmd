@@ -14,3 +14,24 @@ print(val)
 }
 ```
 
+## Task 2
+
+```{r}
+count_above <- function(x,numbers) { # You are creating a unique function.
+  count <- 0
+  
+  for (i in 1:length(x)) { # you are telling R what boundary you want to set, in this case, length.
+    if (x>number) { # You are telling R the range of lengths you want to include
+      count <- count + 1 #
+    }
+  }
+  return(count) # You are telling R to return your data from the function.
+}
+```
+```{r}
+print(iris$Sepal.Length>6)
+```
+```{r}
+print(mtcars$disp>150)
+```
+## Task 3

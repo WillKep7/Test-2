@@ -31,7 +31,10 @@ count_above <- function(x,numbers) { # You are creating a unique function.
 ```{r}
 print(iris$Sepal.Length>6)
 ```
+There are 62 flowers with a sepal length greater than 6 cm.
 ```{r}
-print(mtcars$disp>150)
+print(mtcars$disp>=150)
 ```
+There are 20 Cars with displacement greater than or equal to 150 cu.in.
+
 ## Task 3

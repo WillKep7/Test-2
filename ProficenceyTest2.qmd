@@ -38,3 +38,7 @@ print(mtcars$disp>=150)
 There are 20 Cars with displacement greater than or equal to 150 cu.in.
 
 ## Task 3
+
+Masking allows the creator to reference data directly in their document. 
+
+
